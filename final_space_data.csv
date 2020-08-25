@@ -1,0 +1,248 @@
+name,birth_date,space_flight,space_walks,mission,company_name,location,datum,status_mission
+Dorothy M. Metcalf-Lindenberger,1975-05-02,362,0.0,STS-131,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2010-04-05 06:21:00-04,Success
+James P. Dutton Jr. ,1968-11-20,362,0.0,STS-131,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2010-04-05 06:21:00-04,Success
+Terry W. Virts Jr. ,1967-12-01,5122,18.0,STS-130,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2010-02-08 04:14:00-05,Success
+Barry E. Wilmore,1962-12-29,4272,25.0,STS-129,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2009-11-16 14:28:00-05,Success
+Robert L. Satcher Jr. ,1965-09-22,259,12.0,STS-129,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2009-11-16 14:28:00-05,Success
+Randolph J. Bresnik,1967-09-11,259,12.0,STS-129,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2009-11-16 14:28:00-05,Success
+Jose M. Hernandez,1962-08-07,332,0.0,STS-128,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2009-08-27 23:59:00-04,Success
+Kevin A. Ford,1960-07-07,3781,0.0,STS-128,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2009-08-27 23:59:00-04,Success
+Thomas H. Marshburn,1960-08-29,3871,24.0,STS-127,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2009-07-15 18:03:00-04,Success
+Douglas G. Hurley,1966-10-21,683,0.0,STS-127,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2009-07-15 18:03:00-04,Success
+Christopher J. Cassidy,1970-01-04,4376,31.0,STS-127,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2009-07-15 18:03:00-04,Success
+K. Megan McArthur,1971-08-30,309,0.0,STS-125,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2009-05-11 14:01:00-04,Success
+Gregory C. Johnson,1954-07-30,309,0.0,STS-125,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2009-05-11 14:01:00-04,Success
+Michael T. Good,1962-10-13,592,30.0,STS-125,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2009-05-11 14:01:00-04,Success
+Andrew J. Feustel,1965-08-25,687,42.0,STS-125,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2009-05-11 14:01:00-04,Success
+Richard R. Arnold II ,1963-11-26,307,12.0,STS-119,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2009-03-15 19:43:00-04,Success
+Dominic A. Antonelli,1967-08-23,579,0.0,STS-119,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2009-03-15 19:43:00-04,Success
+Joseph M. Acaba,1967-05-17,3307,13.0,STS-119,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2009-03-15 19:43:00-04,Success
+Robert Shane Kimbrough,1967-06-04,3720,25.0,STS-126,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2008-11-14 19:55:00-05,Success
+Stephen G. Bowen,1964-02-13,970,47.0,STS-126,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2008-11-14 19:55:00-05,Success
+Eric A. Boe,1964-10-01,687,0.0,STS-126,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2008-11-14 19:55:00-05,Success
+Karen L. Nyberg,1969-10-07,4320,0.0,STS-124,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2008-05-31 17:02:00-04,Success
+Kenneth T. Ham,1964-12-12,612,0.0,STS-124,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2008-05-31 17:02:00-04,Success
+Ronald J. Garan Jr. ,1961-10-20,4271,27.0,STS-124,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2008-05-31 17:02:00-04,Success
+Gregory H. Johnson,1962-05-12,755,0.0,STS-123,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2008-03-11 02:28:00-04,Success
+Michael J. Foreman,1957-03-29,637,32.0,STS-123,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2008-03-11 02:28:00-04,Success
+Robert L. Behnken,1970-07-28,708,37.0,STS-123,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2008-03-11 02:28:00-04,Success
+Alan G. Poindexter,1961-11-05,669,0.0,STS-122,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2008-02-07 14:45:00-05,Success
+Leland D. Melvin,1964-02-15,565,0.0,STS-122,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2008-02-07 14:45:00-05,Success
+Stanley G. Love,1965-06-08,306,15.0,STS-122,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2008-02-07 14:45:00-05,Success
+George D. Zamka,1962-06-29,692,0.0,STS-120,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2007-10-22 23:38:00-04,Success
+Douglas H. Wheelock,1960-05-05,4281,43.0,STS-120,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2007-10-22 23:38:00-04,Success
+Barbara R. Morgan,1951-11-28,305,0.0,STS-118,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2007-08-08 18:36:00-04,Success
+Alvin B. Drew Jr. ,1962-11-05,613,13.0,STS-118,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2007-08-08 18:36:00-04,Success
+Tracy E. Caldwell (Dyson),1969-08-14,4531,23.0,STS-118,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2007-08-08 18:36:00-04,Success
+Steven R. Swanson,1960-12-03,4700,28.0,STS-117,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2007-06-08 19:38:00-04,Success
+John D. Olivas,1966-05-25,665,34.0,STS-117,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2007-06-08 19:38:00-04,Success
+Lee J. Archambault,1960-08-25,639,0.0,STS-117,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2007-06-08 19:38:00-04,Success
+Niclolas J. M. Patrick,1964-03-22,638,18.0,STS-116,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2006-12-09 19:47:00-05,Success
+William A. Oefelein,1965-03-29,308,0.0,STS-116,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2006-12-09 19:47:00-05,Success
+Joan E. Higginbotham,1964-08-03,308,0.0,STS-116,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2006-12-09 19:47:00-05,Success
+Heidemarie M. Stefanyshyn-Piper,1963-02-07,663,33.0,STS-115,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2006-09-09 11:14:00-04,Success
+Christopher J. Ferguson,1961-09-01,970,0.0,STS-115,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2006-09-09 11:14:00-04,Success
+Stephanie D. Wilson,1966-09-27,1031,0.0,STS-121,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2006-07-04 14:37:00-04,Success
+Lisa M. Nowak,1963-05-10,306,0.0,STS-121,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2006-07-04 14:37:00-04,Success
+Michael E. Fossum,1957-12-19,4651,48.0,STS-121,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2006-07-04 14:37:00-04,Success
+Joseph P. Allen,1937-06-27,313,12.0,ST-5,Northrop,"Stargazer, Vandenberg AFB, California, USA",2006-03-28 15:10:00-05,Success
+Charles J. Camarda,1952-05-08,333,0.0,STS-114,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2005-07-26 10:39:00-04,Success
+William C. McCool,1961-09-23,382,0.0,STS-107,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2003-01-16 10:39:00-05,Failure
+Laurel B. Clark,1961-03-10,382,0.0,STS-107,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2003-01-16 10:39:00-05,Failure
+David M. Brown,1956-04-16,382,0.0,STS-107,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2003-01-16 10:39:00-05,Failure
+John B. Herrington,1958-09-14,330,20.0,STS-113,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2002-11-23 19:49:00-05,Success
+Piers J. Sellers,1955-04-11,839,41.0,STS-112,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2002-10-07 15:45:00-04,Success
+Sandra H. Magnus,1964-10-30,3776,0.0,STS-112,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2002-10-07 15:45:00-04,Success
+Paul S. Lockhart,1956-04-28,663,0.0,STS-111,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2002-06-05 17:22:00-04,Success
+Rex J. Walheim,1962-10-10,872,36.0,STS-110,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2002-04-08 16:44:00-04,Success
+Lee M. Morin,1952-09-09,259,14.0,STS-110,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2002-04-08 16:44:00-04,Success
+Stephen N. Frick,1961-09-30,566,0.0,STS-110,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2002-04-08 16:44:00-04,Success
+Michael J. Massimino,1962-08-19,571,30.0,STS-109,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2002-03-01 06:22:00-05,Success
+Duane G. Carey,1957-04-30,262,0.0,STS-109,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2002-03-01 06:22:00-05,Success
+Daniel M. Tani,1961-02-01,3162,39.0,STS-108,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2001-12-05 17:19:00-05,Success
+Mark E. Kelly,1964-02-21,1298,0.0,STS-108,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2001-12-05 17:19:00-05,Success
+Patrick G. Forrester,1957-03-31,950,25.0,STS-105,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2001-08-10 17:10:00-04,Success
+Charles O. Hobaugh,1961-11-05,873,0.0,STS-104,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2001-07-12 05:03:00-04,Success
+John L. Phillips,1951-04-15,4880,5.0,STS-100,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2001-04-19 14:40:00-04,Success
+Paul W. Richards,1964-05-20,307,6.0,STS-102,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2001-03-08 06:42:00-05,Success
+James M. Kelly,1964-05-14,641,0.0,STS-102,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2001-03-08 06:42:00-05,Success
+Mark L. Polansky,1956-06-02,995,0.0,STS-98,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2001-02-07 18:13:00-05,Success
+Pamela A. Melroy,1961-09-17,914,0.0,STS-92,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2000-10-11 19:17:00-04,Success
+Richard A. Mastracchio,1960-02-11,5461,53.0,STS-106,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2000-09-08 08:45:00-04,Success
+Daniel C. Burbank,1961-07-27,4512,7.0,STS-106,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2000-09-08 08:45:00-04,Success
+Jeffrey N. Williams,1958-01-18,12818,32.0,STS-101,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2000-05-19 06:11:00-04,Success
+Scott J. Kelly,1964-02-21,12490,18.0,STS-103,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1999-12-19 19:50:00-05,Success
+Jeffrey S. Ashby,1954-06-01,655,0.0,STS-93,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1999-07-23 00:31:00-04,Success
+Rick D. Husband,1957-07-12,617,0.0,STS-96,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1999-05-27 06:49:00-04,Success
+Frederick W. Sturckow,1961-08-11,1233,0.0,STS-88,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1998-12-04 03:35:00-05,Success
+John H. Glenn Jr. ,1921-07-18,218,0.0,STS-95,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1998-10-29 14:19:00-05,Success
+Janet L. Kavandi,1959-07-17,812,0.0,STS-91,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1998-06-02 18:06:00-04,Success
+Dominic L. Gorie,1957-05-02,1167,0.0,STS-91,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1998-06-02 18:06:00-04,Success
+James A. Pawelczyk,1960-09-20,381,0.0,STS-90,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1998-04-17 14:19:00-04,Success
+Kathryn P. Hire,1959-08-26,711,0.0,STS-90,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1998-04-17 14:19:00-04,Success
+Jay Clark Buckey,1956-06-06,381,0.0,STS-90,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1998-04-17 14:19:00-04,Success
+Scott D. Altman,1959-08-15,1236,0.0,STS-90,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1998-04-17 14:19:00-04,Success
+James F. Reilly II ,1954-03-18,854,31.0,STS-89,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1998-01-21 21:48:00-05,Success
+Joe F. Edwards Jr. ,1958-02-03,211,0.0,STS-89,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1998-01-21 21:48:00-05,Success
+Michael P. Anderson,1959-12-25,594,0.0,STS-89,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1998-01-21 21:48:00-05,Success
+Steven W. Lindsey,1960-08-24,1510,0.0,STS-87,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1997-11-19 14:46:00-05,Success
+Kalpana Chawla,1961-06-01,734,0.0,STS-87,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1997-11-19 14:46:00-05,Success
+Michael J. Bloomfield,1959-03-16,779,0.0,STS-86,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1997-09-25 10:34:00-04,Success
+Stephen K. Robinson,1955-10-26,1162,20.0,STS-85,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1997-08-07 10:41:00-04,Success
+Robert L. Curbeam Jr. ,1962-03-05,902,45.0,STS-85,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1997-08-07 10:41:00-04,Success
+Carlos I. Noriega,1959-10-08,481,19.0,STS-84,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1997-05-15 04:07:00-04,Success
+Edward T. Lu,1963-07-01,4962,6.0,STS-84,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1997-05-15 04:07:00-04,Success
+Gregory T. Linteris,1957-10-04,471,0.0,STS-83,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1997-04-04 14:20:00-05,Success
+Susan L. Kilrain (Still),1961-10-24,472,0.0,STS-83,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1997-04-04 14:20:00-05,Success
+Roger K. Crouch,1940-09-12,471,0.0,STS-83,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1997-04-04 14:20:00-05,Success
+Richard M. Linnehan,1957-09-19,1427,43.0,STS-78,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1996-06-20 10:49:00-04,Success
+Charles E. Brady Jr. ,1951-08-12,405,0.0,STS-78,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1996-06-20 10:49:00-04,Success
+Andrew S. W. Thomas,1951-12-18,4257,6.0,STS-77,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1996-05-19 06:30:00-04,Success
+Scott J. Horowitz,1957-03-24,1137,0.0,STS-75,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1996-02-22 15:18:00-05,Success
+Winston E. Scott,1950-08-06,590,19.0,STS-72,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1996-01-11 04:41:00-05,Success
+Brent W. Jett,1958-10-05,1002,0.0,STS-72,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1996-01-11 04:41:00-05,Success
+Daniel T. Barry,1953-12-30,733,26.0,STS-72,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1996-01-11 04:41:00-05,Success
+Albert Sacco Jr.,1949-05-03,381,0.0,STS-73,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1995-10-20 09:53:00-04,Success
+Kent V. Rominger,1956-08-07,1611,0.0,STS-73,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1995-10-20 09:53:00-04,Success
+Michael E. Lopez-Alegria,1958-05-30,6190,67.0,STS-73,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1995-10-20 09:53:00-04,Success
+Fred W. Leslie,1951-12-19,381,0.0,STS-73,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1995-10-20 09:53:00-04,Success
+Catherine G. Coleman,1960-12-14,4324,0.0,STS-73,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1995-10-20 09:53:00-04,Success
+Michael L. Gernhardt,1956-05-04,1039,23.0,STS-69,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1995-09-07 11:09:00-04,Success
+Mary E. Weber,1962-08-24,450,0.0,STS-70,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1995-07-13 09:41:00-04,Success
+Kevin R. Kregel,1956-09-16,1265,0.0,STS-70,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1995-07-13 09:41:00-04,Success
+Wendy B. Lawrence,1959-07-02,1223,0.0,STS-67,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1995-03-02 01:38:00-05,Success
+John M. Grunsfeld,1958-10-10,1407,58.0,STS-67,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1995-03-02 01:38:00-05,Success
+William G. Gregory,1957-05-14,399,0.0,STS-67,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1995-03-02 01:38:00-05,Success
+Eileen M. Collins,1959-11-19,890,0.0,STS-63,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1995-02-03 00:22:00-05,Success
+Joseph R. Tanner,1950-01-21,1045,46.0,STS-66,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1994-11-03 11:59:00-05,Success
+Scott E. Parazynski,1961-07-28,1404,47.0,STS-66,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1994-11-03 11:59:00-05,Success
+Terrence W. Wilcutt,1949-10-31,1008,0.0,STS-68,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1994-09-30 07:16:00-04,Success
+Steven L. Smith,1958-12-30,960,49.0,STS-68,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1994-09-30 07:16:00-04,Success
+Jerry M. Linenger,1955-01-16,3435,5.0,STS-64,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1994-09-09 18:22:00-04,Success
+Donald A. Thomas,1955-05-06,1040,0.0,STS-65,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1994-07-08 00:43:00-04,Success
+James D. Halsell Jr. ,1956-09-29,1258,0.0,STS-65,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1994-07-08 00:43:00-04,Success
+Leroy Chiao,1960-08-28,5503,36.0,STS-65,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1994-07-08 00:43:00-04,Success
+Thomas D. Jones,1955-01-22,1272,20.0,STS-59,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1994-04-09 07:05:00-04,Success
+Ronald M. Sega,1952-12-04,420,0.0,STS-60,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1994-02-03 07:10:00-05,Success
+David A. Wolf,1956-08-23,4044,41.0,STS-58,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1993-10-18 10:53:00-04,Success
+Richard A. Searfoss,1956-06-05,939,0.0,STS-58,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1993-10-18 10:53:00-04,Success
+William S. McArthur Jr. ,1951-07-26,5398,24.0,STS-58,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1993-10-18 10:53:00-04,Success
+Martin J. Fettman,1956-12-31,336,0.0,STS-58,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1993-10-18 10:53:00-04,Success
+Carl E. Walz,1955-09-06,5533,19.0,STS-51,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1993-09-12 07:45:00-04,Success
+James H. Newman,1956-10-16,1042,43.0,STS-51,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1993-09-12 07:45:00-04,Success
+Daniel W. Bursch,1957-07-25,5446,12.0,STS-51,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1993-09-12 07:45:00-04,Success
+Peter J. K. Wisoff,1958-08-16,1064,20.0,STS-57,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1993-06-21 09:07:00-04,Success
+Janice E. Voss,1956-10-08,1179,0.0,STS-57,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1993-06-21 09:07:00-04,Success
+Nancy J. Currie,1958-12-29,999,0.0,STS-57,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1993-06-21 09:07:00-04,Success
+Charles J. Precourt,1955-06-29,950,0.0,STS-55,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1993-04-26 10:50:00-04,Success
+Bernard A. Harris Jr. ,1956-06-26,438,5.0,STS-55,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1993-04-26 10:50:00-04,Success
+Ellen Ochoa,1958-05-10,979,0.0,STS-56,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1993-04-08 01:29:00-04,Success
+Kenneth D. Cockrell,1950-04-09,1548,0.0,STS-56,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1993-04-08 01:29:00-04,Success
+Susan J. Helms,1958-02-26,5063,9.0,STS-54,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1993-01-13 08:59:00-05,Success
+Michael R. Clifford,1952-10-13,666,6.0,STS-53,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1992-12-02 08:24:00-05,Success
+Mae C. Jemison,1956-10-17,190,0.0,STS-47,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1992-09-12 10:23:00-04,Success
+N. Jan Davis,1953-11-01,673,0.0,STS-47,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1992-09-12 10:23:00-04,Success
+Curtis L. Brown Jr. ,1956-03-11,1383,0.0,STS-47,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1992-09-12 10:23:00-04,Success
+Andrew M. Allen,1955-08-04,906,0.0,STS-46,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1992-07-31 09:56:00-04,Success
+Lawrence J. Delucas,1950-07-11,331,0.0,STS-50,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1992-06-25 12:12:00-04,Success
+Kenneth D. Bowersox,1956-11-14,5078,13.0,STS-50,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1992-06-25 12:12:00-04,Success
+Kevin P. Chilton,1954-03-11,700,0.0,STS-49,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1992-05-07 19:40:00-04,Success
+C. Michael Foale,1957-01-06,8970,22.0,STS-45,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1992-03-24 08:13:00-05,Success
+Brian Duffy,1953-06-20,977,0.0,STS-45,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1992-03-24 08:13:00-05,Success
+William F. Readdy,1952-01-24,672,0.0,STS-42,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1992-01-22 09:52:00-05,Success
+Stephen S. Oswald,1951-06-30,814,0.0,STS-42,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1992-01-22 09:52:00-05,Success
+James S. Voss,1949-03-03,4853,22.0,STS-44,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1991-11-24 18:44:00-05,Success
+Mario Runco Jr. ,1952-01-26,551,0.0,STS-44,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1991-11-24 18:44:00-05,Success
+Terence T. Henricks,1952-07-05,1026,0.0,STS-44,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1991-11-24 18:44:00-05,Success
+Thomas J. Hennen,1952-08-17,166,0.0,STS-44,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1991-11-24 18:44:00-05,Success
+Kenneth S. Reightler Jr. ,1951-03-24,327,0.0,STS-48,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1991-09-12 19:11:00-04,Success
+Michael A. Baker,1953-10-27,965,0.0,STS-43,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1991-08-02 11:02:00-04,Success
+Tamara E. Jernigan,1959-05-07,1489,8.0,STS-40,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1991-06-05 09:24:00-04,Success
+Millie Hughes-Fulford,1945-12-21,218,0.0,STS-40,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1991-06-05 09:24:00-04,Success
+Sidney M. Gutierrez,1951-06-27,488,0.0,STS-40,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1991-06-05 09:24:00-04,Success
+F. Andrew Gaffney,1946-06-09,218,0.0,STS-40,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1991-06-05 09:24:00-04,Success
+Charles Lacy Veach,1944-09-18,436,0.0,STS-39,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1991-04-28 07:33:00-04,Success
+Donald R. McMonagle,1952-05-14,605,0.0,STS-39,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1991-04-28 07:33:00-04,Success
+Richard J. Hieb,1955-09-21,766,18.0,STS-39,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1991-04-28 07:33:00-04,Success
+Gregory J. Harbaugh,1956-04-15,817,18.0,STS-39,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1991-04-28 07:33:00-04,Success
+L. Blaine Hammond Jr. ,1952-01-16,462,0.0,STS-39,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1991-04-28 07:33:00-04,Success
+William M. Shepherd,1949-07-26,3823,0.0,STS-37,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1991-04-05 09:22:00-05,Success
+Linda M. Godwin,1952-07-02,918,10.0,STS-37,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1991-04-05 09:22:00-05,Success
+Kenneth D. Cameron,1949-11-29,562,0.0,STS-37,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1991-04-05 09:22:00-05,Success
+Jerome Apt III ,1949-04-18,847,11.0,STS-37,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1991-04-05 09:22:00-05,Success
+Ronald A. Parise,1951-05-24,614,0.0,STS-35,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1990-12-02 01:49:00-05,Success
+Samuel T. Durrance,1943-09-17,614,0.0,STS-35,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1990-12-02 01:49:00-05,Success
+Carl J. Meade,1950-11-16,712,6.0,STS-38,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1990-11-15 18:48:00-05,Success
+Charles D. Gemar,1955-08-04,581,0.0,STS-38,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1990-11-15 18:48:00-05,Success
+Frank L. Culbertson Jr. ,1949-05-15,3446,5.0,STS-38,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1990-11-15 18:48:00-05,Success
+Bruce E. Melnick,1949-12-05,311,0.0,STS-41,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1990-10-06 07:47:00-04,Success
+Robert D. Cabana,1949-01-23,910,0.0,STS-41,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1990-10-06 07:47:00-04,Success
+Thomas D. Akers,1951-05-20,814,29.0,STS-41,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1990-10-06 07:47:00-04,Success
+Pierre J. Thuot,1955-05-19,654,17.0,STS-36,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1990-02-28 02:50:00-05,Success
+John H. Casper,1943-07-09,825,0.0,STS-36,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1990-02-28 02:50:00-05,Success
+James D. Wetherbee,1952-11-27,1594,0.0,STS-32,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1990-01-09 07:35:00-05,Success
+G. David Low,1956-02-19,714,6.0,STS-32,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1990-01-09 07:35:00-05,Success
+Marsha S. Ivins,1951-04-15,1341,0.0,STS-32,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1990-01-09 07:35:00-05,Success
+Owen K. Garriott,1930-11-22,1674,14.0,STS-9,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1983-11-28 11:00:00-05,Success
+Brewster H. Shaw Jr. ,1945-05-16,533,0.0,STS-9,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1983-11-28 11:00:00-05,Success
+Robert A. Parker,1936-12-14,462,0.0,STS-9,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1983-11-28 11:00:00-05,Success
+Byron K. Lichtenberg,1948-02-19,461,0.0,STS-9,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1983-11-28 11:00:00-05,Success
+William E. Thornton,1929-04-14,315,0.0,STS-8,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1983-09-05 03:40:00-04,Success
+Dale A. Gardner,1948-11-08,336,12.0,STS-8,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1983-09-05 03:40:00-04,Success
+Daniel C. Brandenstein,1943-01-17,789,0.0,STS-8,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1983-09-05 03:40:00-04,Success
+Guion S. Bluford Jr. ,1942-11-22,689,0.0,STS-8,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1983-09-05 03:40:00-04,Success
+Norman E. Thagard,1943-07-03,3373,0.0,STS-7,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1983-06-18 07:33:00-04,Success
+Sally K. Ride,1951-05-26,343,0.0,STS-7,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1983-06-18 07:33:00-04,Success
+Frederick H. Hauck,1941-04-11,435,0.0,STS-7,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1983-06-18 07:33:00-04,Success
+John M. Fabian,1939-01-28,316,0.0,STS-7,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1983-06-18 07:33:00-04,Success
+Paul J. Weitz,1932-06-25,793,2.0,STS-6,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1983-04-04 13:30:00-05,Success
+Donald H. Peterson,1933-10-22,120,4.0,STS-6,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1983-04-04 13:30:00-05,Success
+Story Musgrave,1935-08-19,1281,26.0,STS-6,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1983-04-04 13:30:00-05,Success
+Karol J. Bobko,1937-12-23,386,0.0,STS-6,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1983-04-04 13:30:00-05,Success
+Vance D. Brand,1931-05-09,752,0.0,STS-5,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1982-11-11 07:19:00-05,Success
+Robert F. Overmyer,1936-07-14,290,0.0,STS-5,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1982-11-11 07:19:00-05,Success
+William B. Lenoir,1939-03-14,122,0.0,STS-5,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1982-11-11 07:19:00-05,Success
+Thomas K. Mattingly II ,1936-03-17,508,1.0,STS-4,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1982-06-27 12:09:00-04,Success
+Henry W. Hartsfield Jr. ,1933-11-21,482,0.0,STS-4,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1982-06-27 12:09:00-04,Success
+Jack R. Lousma,1936-02-29,1619,11.0,STS-3,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1982-03-22 11:00:00-05,Success
+C. Gordon Fullerton,1936-10-11,382,0.0,STS-3,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1982-03-22 11:00:00-05,Success
+Richard H. Truly,1937-11-12,199,0.0,STS-2,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1981-11-12 10:09:00-05,Success
+Joe H. Engle,1932-08-26,224,0.0,STS-2,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1981-11-12 10:09:00-05,Success
+John W. Young,1930-09-24,835,20.0,STS-1,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1981-04-12 07:00:00-05,Success
+Robert L. Crippen,1937-09-11,565,0.0,STS-1,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1981-04-12 07:00:00-05,Success
+Eugene A. Cernan,1934-03-14,566,24.0,Apollo17,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1972-12-19 14:24:00-05,Success
+Eugene A. Cernan,1934-03-14,566,24.0,Apollo17,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1972-12-19 14:24:00-05,Success
+Harrison H. Schmitt,1935-07-03,301,22.0,Apollo17,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1972-12-19 14:24:00-05,Success
+Ronald E. Evans Jr. ,1933-11-10,301,1.0,Apollo17,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1972-12-19 14:24:00-05,Success
+John W. Young,1930-09-24,835,20.0,Apollo16,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1972-04-16 12:54:00-05,Success
+Thomas K. Mattingly II ,1936-03-17,508,1.0,Apollo16,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1972-04-16 12:54:00-05,Success
+Charles M. Duke Jr. ,1935-10-03,265,20.0,Apollo16,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1972-04-16 12:54:00-05,Success
+David R. Scott,1932-06-06,546,19.0,Apollo15,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1971-07-26 09:34:00-04,Success
+David R. Scott,1932-06-06,546,19.0,Apollo15,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1971-07-26 09:34:00-04,Success
+Alfred M. Worden,1932-02-07,295,0.5,Apollo15,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1971-07-26 09:34:00-04,Success
+James B. Irwin,1930-03-17,295,20.0,Apollo15,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1971-07-26 09:34:00-04,Success
+Alan B. Shepard Jr. ,1923-11-18,216,9.0,Apollo14,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1971-01-31 16:03:00-05,Success
+Stuart A. Roosa,1933-08-16,216,0.0,Apollo14,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1971-01-31 16:03:00-05,Success
+Edgar D. Mitchell,1930-09-17,216,9.0,Apollo14,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1971-01-31 16:03:00-05,Success
+James A. Lovell Jr. ,1928-03-25,715,0.0,Apollo13,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1970-04-11 14:13:00-05,Success
+John L. Swigert Jr. ,1931-08-30,142,0.0,Apollo13,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1970-04-11 14:13:00-05,Success
+Fred W. Haise Jr. ,1933-11-14,142,0.0,Apollo13,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1970-04-11 14:13:00-05,Success
+Charles Conrad Jr. ,1930-05-02,1179,12.0,Apollo12,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1969-11-14 11:22:00-05,Success
+Charles Conrad Jr. ,1930-05-02,1179,12.0,Apollo12,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1969-11-14 11:22:00-05,Success
+Richard F. Gordon Jr. ,1929-10-05,315,0.5,Apollo12,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1969-11-14 11:22:00-05,Success
+Alan L. Bean,1932-03-15,1671,10.0,Apollo12,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1969-11-14 11:22:00-05,Success
+Michael Collins,1930-10-31,266,1.0,Apollo11,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1969-07-16 09:32:00-04,Success
+Neil A. Armstrong,1930-08-05,205,2.0,Apollo11,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1969-07-16 09:32:00-04,Success
+Buzz Aldrin,1930-01-20,289,8.0,Apollo11,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1969-07-16 09:32:00-04,Success
+John W. Young,1930-09-24,835,20.0,Apollo10,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1969-05-18 12:49:00-04,Success
+Thomas P. Stafford,1930-09-17,507,0.0,Apollo10,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1969-05-18 12:49:00-04,Success
+John W. Young,1930-09-24,835,20.0,Apollo10,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1969-05-18 12:49:00-04,Success
+Thomas P. Stafford,1930-09-17,507,0.0,Apollo10,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1969-05-18 12:49:00-04,Success
+Eugene A. Cernan,1934-03-14,566,24.0,Apollo10,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1969-05-18 12:49:00-04,Success
+David R. Scott,1932-06-06,546,19.0,Apollo9,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1969-03-03 11:00:00-05,Success
+James A. McDivitt,1929-06-10,338,0.0,Apollo9,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1969-03-03 11:00:00-05,Success
+Russell L. Schweickart,1935-10-25,241,1.0,Apollo9,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1969-03-03 11:00:00-05,Success
+James A. Lovell Jr. ,1928-03-25,715,0.0,Apollo8,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1968-12-21 07:51:00-05,Success
+James A. Lovell Jr. ,1928-03-25,715,0.0,Apollo8,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1968-12-21 07:51:00-05,Success
+Frank Borman,1928-03-14,477,0.0,Apollo8,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1968-12-21 07:51:00-05,Success
+William A. Anders,1933-10-17,147,0.0,Apollo8,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1968-12-21 07:51:00-05,Success
