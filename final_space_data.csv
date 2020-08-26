@@ -1,4 +1,4 @@
-name,birth_date,space_flight(hrs),space_walks,mission,company_name,location,datum,status_mission
+name,birth_date,space_flight(hrs),space_walks(hrs),mission,company_name,location,datum,status_mission
 Dorothy M. Metcalf-Lindenberger,1975-05-02,362,0.0,STS-131,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2010-04-05 06:21:00-04,Success
 James P. Dutton Jr. ,1968-11-20,362,0.0,STS-131,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2010-04-05 06:21:00-04,Success
 Terry W. Virts Jr. ,1967-12-01,5122,18.0,STS-130,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2010-02-08 04:14:00-05,Success
